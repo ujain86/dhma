@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dhma/static/css/main.89fbb5a3.css",
+    "main.js": "/dhma/static/js/main.c7bb558b.js",
+    "index.html": "/dhma/index.html",
+    "main.89fbb5a3.css.map": "/dhma/static/css/main.89fbb5a3.css.map",
+    "main.c7bb558b.js.map": "/dhma/static/js/main.c7bb558b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89fbb5a3.css",
+    "static/js/main.c7bb558b.js"
+  ]
+}
